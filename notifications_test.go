@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/FactomProject/btcjson"
+	"github.com/FactomProject/btcd/btcjson"
 	"github.com/FactomProject/btcws"
 	"github.com/davecgh/go-spew/spew"
 )
