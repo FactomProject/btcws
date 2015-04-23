@@ -99,7 +99,7 @@ func init() {
 type BlockDetails struct {
 	Height int32  `json:"height"`
 	Hash   string `json:"hash"`
-	Index  int    `json:"index"`
+	Index  int32  `json:"index"`
 	Time   int64  `json:"time"`
 }
 
